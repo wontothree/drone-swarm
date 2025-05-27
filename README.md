@@ -1,1 +1,1 @@
-# Autonomous Drone Swarm for Mapping Unknown Indoor
+# Autonomous Drone Swarm for SLAM
