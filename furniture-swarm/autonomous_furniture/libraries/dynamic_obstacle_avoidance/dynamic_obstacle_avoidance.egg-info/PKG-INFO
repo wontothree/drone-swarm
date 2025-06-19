@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dynamic_obstacle_avoidance
+Version: 0.0.0
+Summary: Dynamic Obstacle Avoidance
+Maintainer: Lukas Huber
+Maintainer-email: lukas.huber@epfl.ch
+License: TODO
+License-File: LICENSE
+Requires-Dist: setuptools

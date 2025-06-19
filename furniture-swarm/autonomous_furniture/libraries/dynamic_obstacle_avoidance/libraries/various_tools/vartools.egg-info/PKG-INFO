@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: vartools
+Version: 0.0.1
+Summary: Various Mathematical Tools
+Maintainer: Lukas Huber
+Maintainer-email: lukas.huber@epfl.ch
+License-File: LICENSE
+Requires-Dist: setuptools
